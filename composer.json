@@ -1,0 +1,17 @@
+{
+    "name": "yaghob/time",
+    "description": "this is my first package",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Yaghob\\Time\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "yaghoob",
+            "email": "yaghoob004242@gmail.com"
+        }
+    ],
+    "require": {}
+}
